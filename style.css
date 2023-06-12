@@ -87,32 +87,35 @@ h1, p{
 }
 
 .s-a{
-    border: 2px solid white;
+    border: 20px solid green;
 }
 
-.scatola-b{
-    border: 2px solid blue;
+.s-b{
+    border: 20px solid blue;
 }
 
 .s-c{
-    border: 2px solid rgb(94, 13, 94);
+    border: 20px solid pink;
 }
 
 .s-d{
-    border: 2px solid rgb(27, 54, 94);
+    border: 20px solid yellow;
 }
 .s-e{
-    border: 2px solid red;
+    border: 20px solid turquoise;
 }
-.scatola{
-    border: 2px solid red;
+.s-f{
+    border: 20px solid orange;
 }
-.scatola{
-    border: 2px solid red;
+.s-g{
+    border: 20px solid coral;
 }
-.scatola{
-    border: 2px solid red;
+.s-h{
+    border: 20px solid lightsalmon;
 }
-.scatola{
-    border: 2px solid red;
+.s-i{
+    border: 20px solid yellowgreen;
+}
+.s-l{
+    border:20px solid teal;
 }
